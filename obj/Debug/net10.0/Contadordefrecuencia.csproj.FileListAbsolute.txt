@@ -1,0 +1,14 @@
+D:\Documentos\Contadordefrecuencia\bin\Debug\net10.0\Contadordefrecuencia.exe
+D:\Documentos\Contadordefrecuencia\bin\Debug\net10.0\Contadordefrecuencia.deps.json
+D:\Documentos\Contadordefrecuencia\bin\Debug\net10.0\Contadordefrecuencia.runtimeconfig.json
+D:\Documentos\Contadordefrecuencia\bin\Debug\net10.0\Contadordefrecuencia.dll
+D:\Documentos\Contadordefrecuencia\bin\Debug\net10.0\Contadordefrecuencia.pdb
+D:\Documentos\Contadordefrecuencia\obj\Debug\net10.0\Contadordefrecuencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Contadordefrecuencia\obj\Debug\net10.0\Contadordefrecuencia.AssemblyInfoInputs.cache
+D:\Documentos\Contadordefrecuencia\obj\Debug\net10.0\Contadordefrecuencia.AssemblyInfo.cs
+D:\Documentos\Contadordefrecuencia\obj\Debug\net10.0\Contadordefrecuencia.csproj.CoreCompileInputs.cache
+D:\Documentos\Contadordefrecuencia\obj\Debug\net10.0\Contadordefrecuencia.dll
+D:\Documentos\Contadordefrecuencia\obj\Debug\net10.0\refint\Contadordefrecuencia.dll
+D:\Documentos\Contadordefrecuencia\obj\Debug\net10.0\Contadordefrecuencia.pdb
+D:\Documentos\Contadordefrecuencia\obj\Debug\net10.0\Contadordefrecuencia.genruntimeconfig.cache
+D:\Documentos\Contadordefrecuencia\obj\Debug\net10.0\ref\Contadordefrecuencia.dll
