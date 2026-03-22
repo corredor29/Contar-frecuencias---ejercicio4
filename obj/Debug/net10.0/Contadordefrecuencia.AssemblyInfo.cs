@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Contadordefrecuencia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36d2b491f42870dad75c41a389445a6077ecb21b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Contadordefrecuencia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Contadordefrecuencia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
